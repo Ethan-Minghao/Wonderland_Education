@@ -1,26 +1,5 @@
 # Wonderland Education Platform
 
-Table of Contents
-
-1.Introduction.....................................................................................................................................2
-
-2. Project details .............................................................................................................................2
-1. Overall solution.................................................................................................................2
-1. Function details .................................................................................................................4
-1. Login and Sign up...................................................................................................4
-1. Homepage.....................................................................................................................8
-1. Search Page...............................................................................................................9
-1. Profile.php and edit.php...................................................................................10
-1. Detail.php, Cart.php, Orders.php and documents related to them.......13
-3. Database details ...............................................................................................................17
-1. Table ‘User’ .......................................................................................................17
-1. Table ‘Cart’ .......................................................................................................18
-1. Table ‘Service\_category’ ...............................................................................18
-1. Table 'Order' .........................................................................................................18
-3. Justification and evaluation.................................................................................................19 3.1.Product evaluation...........................................................................................................19
-2. Strengths as well as limitations ...............................................................................20
-2. Business case for the project and ethical issues. .............................................21
-4. Conclusion.....................................................................................................................................22
 
 1.Introduction
 
@@ -239,4 +218,3 @@ Business ethics may seem like an intangible concept, but a lack of business ethi
 4. Conclusion
 
 In summary, as a C2C service paid application abroad website for study abroad, this platform reduces the cost of students applying to go abroad and gives tutors part-time opportunities. And it fulfils the basic operational functions for the users. At the end this report discusses the of the advantages and possible problems that could arise if it were to actually enter the market. However, due to time constraints and other reasons, the platform can be further improved. (1) there is no security methods for sensitive data. (2) provide more function to enhance user experience.
-22
