@@ -1,26 +1,4 @@
-XI’AN JIAOTONG-LIVERPOOL UNIVERSITY
-
-西 交 利 物 浦 大 学
-
-COURSEWORK     SUBMISSION COVER SHEET
-
-
-
-|Module Title|Technologies for E-Commerce|
-| - | - |
-|Module Code|CAN 302|
-|Assignment Title|Wonderland -Study Abroad Agency Platform|
-|Submission Deadline|15 May 2022, 18:00|
-|Module Leader|Ping Zhang|
-|Group Member|
-|Student ID|Name|
-|1718696|Hongyan Ouyang|
-|1822207|Minghao Du|
-|1824152|Tianlei Shi|
-|1825151|Xia Zong|
-|1717958|Yaxin Zhang|
-|1718557|Zhengye Yin|
-I
+# Wonderland Education Platform
 
 Table of Contents
 
